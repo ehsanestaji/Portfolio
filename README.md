@@ -1,2 +1,2 @@
 # Portfolio
-I am bringin here my certificates and projocets 
+I am bringing here my certificates and projocets 
