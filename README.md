@@ -12,7 +12,7 @@ Mathematics : Algebraic Graph Theory, Network Analysis, Navigation Problems on G
 
 Computer Sciences : Different Aspects of E-Votings (Design, Usability, Verifiability, Privacy), Machine Learning, Formal Verification Tools ( Easycrypt, Coq ), Web Developer (HTML, CSS, JS, PHP, SQL),
 
-## Getting Started
+## Certificates
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -21,9 +21,12 @@ These instructions will get you a copy of the project up and running on your loc
 Give examples
 ```
 
-## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+## Projects
 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+
+```
+Give examples
+```
