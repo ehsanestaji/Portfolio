@@ -1,7 +1,4 @@
-# Project Title
-
-One Paragraph of project description goes here
-
+# About Me
 
 In the summer of 2013 I graduated with a Ph.D. degree in algebraic graph theory from the Ferdowsi University of Mashhad. Having now obtained my degree, I have moved to Hakim Sabzevari University as an assistant professor for seven years.
 
