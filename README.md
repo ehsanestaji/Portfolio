@@ -14,8 +14,9 @@ Computer Sciences : Different Aspects of E-Votings (Design, Usability, Verifiabi
 
 ## Certificates
 
+I attempt to list and categorize my certificates and courses passed.
 
 
 ## Projects
 
-
+It is my intention to update the current list of completed projects. 
