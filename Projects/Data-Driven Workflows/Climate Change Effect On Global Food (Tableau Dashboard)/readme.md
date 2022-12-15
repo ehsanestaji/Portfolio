@@ -1,4 +1,4 @@
-###Climate Change and Global Food Production
+# Climate Change and Global Food Production
 
 This project uses data from the Socioeconomic Data and Applications Center (SEDAC) to visualize the effects of climate change on global food production. The data was collected by the NASA Goddard Institute for Space Studies (GISS) and includes estimates of crop yields under different climate and environmental conditions.
 
