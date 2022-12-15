@@ -12,7 +12,7 @@ The data for this project was obtained from SEDAC, including the following datas
     Crop yield estimates
     Climate and environmental data
 
-Visualization
+# Visualization
 
 The visualization includes several tabs, each of which shows a different aspect of the data.
 Overview
