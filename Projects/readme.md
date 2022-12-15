@@ -1,1 +1,1 @@
-### I am still preparing to uplaod the polish version of projects on Github
+### Welcome to my repository! I am constantly uploading my ongoing projects in this repository, so feel free to take a look around. Here, you will find a collection of my personal projects and experiments that showcase my interests and skills. I am always looking for ways to improve and learn, so if you have any suggestions or feedback, don't hesitate to reach out. Thank you for visiting!
