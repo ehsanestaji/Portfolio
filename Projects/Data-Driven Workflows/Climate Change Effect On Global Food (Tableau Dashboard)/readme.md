@@ -9,8 +9,8 @@ Data Sources
 
 The data for this project was obtained from SEDAC, including the following datasets:
 
-    Crop yield estimates
-    Climate and environmental data
+- Crop yield estimates,
+- Climate and environmental data.
 
 # Visualization
 
