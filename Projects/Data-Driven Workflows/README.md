@@ -1,9 +1,9 @@
 ## Welcome to my data science portfolio!
- <h1 style="color:blue;">A Blue Heading</h1>
-<ul>
-  <li> first  </li>
-  <li> second </li> 
-</ul>
+
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+
 
 I am a data scientist with a strong background in machine learning, statistical analysis, and data visualization.
 
