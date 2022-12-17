@@ -1,4 +1,8 @@
 ## Welcome to my data science portfolio!
+<ul>
+  <li> first  </li>
+  <li> second </li> 
+</ul>
 
 I am a data scientist with a strong background in machine learning, statistical analysis, and data visualization.
 
