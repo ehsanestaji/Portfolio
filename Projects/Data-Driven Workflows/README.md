@@ -1,4 +1,4 @@
-## Welcome to my data science portfolio!
+# Welcome to my data science portfolio!
 
 I am a data scientist with a strong background in machine learning, statistical analysis, and data visualization.
 
