@@ -3,18 +3,11 @@
 I am a data scientist with a strong background in machine learning, statistical analysis, and data visualization.
 
 In this portfolio, you will find a selection of my projects that demonstrate my skills and experience in the field of data science. Each project includes a brief description, the tools and techniques used, and a summary of my contributions.
-### Project 1: ???
+### Project 1: Climate Change Effect On Global Food 
 
-???
+### Project 2: Covid Power Bi Dashboard
 
-
-### Project 2: ????
-???
-
-
-### Project 3: ????
-
-???
+### Project 3: Google Scholar Scrapping
 
 
 # Skills and Tools
