@@ -11,6 +11,7 @@ This Tableau data visualization explores the potential impact of climate change 
 The "Covid Power BI Dashboard" is a data visualization that provides an overview of the COVID-19 pandemic using data from various sources. It uses Power BI to present the data in the form of interactive charts, maps, and tables, allowing the user to explore and analyze the data in depth. The dashboard covers a wide range of topics, including cases and deaths by country, vaccination rates, and the economic impact of the pandemic. It is intended to provide a comprehensive overview of the COVID-19 situation and help people stay informed about the latest developments.
 
 ### Project 3: Google Scholar Scrapping
+The "Google Scholar Scrapping" project is a data analysis that uses natural language processing (NLP) and topic modeling techniques to explore research papers on a specific topic. It involves scrapping data from Google Scholar using web scraping tools, preprocessing the data using NLP techniques, and applying topic modeling algorithms to identify the main themes and trends in the research. The results are presented in the form of interactive plots and charts, allowing the user to visualize and understand the structure and content of the research. This project is useful for researchers, students, and anyone interested in exploring the latest developments in a specific field of study.
 
 
 # Skills and Tools
