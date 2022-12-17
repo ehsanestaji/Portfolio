@@ -3,7 +3,9 @@
 I am a data scientist with a strong background in machine learning, statistical analysis, and data visualization.
 
 In this portfolio, you will find a selection of my projects that demonstrate my skills and experience in the field of data science. Each project includes a brief description, the tools and techniques used, and a summary of my contributions.
+
 ### Project 1: Climate Change Effect On Global Food 
+This Tableau data visualization explores the potential impact of climate change on global food production using data from Socioeconomic Data and Applications Center (SEDAC). It presents the data in the form of interactive maps, scatter plots, and bar charts, allowing the user to see how crop yields are affected by changes in weather conditions. The visualization aims to highlight the importance of addressing climate change in order to secure the global food supply.
 
 ### Project 2: Covid Power Bi Dashboard
 
