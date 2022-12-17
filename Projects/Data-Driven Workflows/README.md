@@ -1,9 +1,15 @@
 ## Welcome to my data science portfolio!
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+# Color Test Document
 
+## Second Heading
+
+This is a test to see how the colors work.
 
 I am a data scientist with a strong background in machine learning, statistical analysis, and data visualization.
 
